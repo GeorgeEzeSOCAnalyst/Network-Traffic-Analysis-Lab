@@ -196,7 +196,13 @@ teaches — and this lab proved it works.
 - Investigation 2 — Brute Force Traffic Analysis
 - Investigation 3 — Real Malware PCAP Analysis
 
----
+---Network-Traffic-Analysis-Lab/
+├── README.md
+├── NTA_Investigation1_PortScan_GeorgeEze.pdf
+├── screenshot-1-syn-filter.png
+├── screenshot-2-conversations.png
+├── screenshot-3-tcp-stream.png
+└── screenshot-4-wazuh-alert.png
 
 ## 📂 Files in This Repo
 
